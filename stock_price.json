@@ -1,0 +1,56 @@
+[
+    {
+        "ticker": "QQQ",
+        "name": "Invesco QQQ Trust",
+        "one_year_ago_price": 375.4,
+        "six_months_ago_price": 442.73,
+        "current_price": 476.27,
+        "change": 100.87,
+        "change_percent": 26.87
+    },
+    {
+        "ticker": "QQQM",
+        "name": "Invesco NASDAQ 100 ETF",
+        "one_year_ago_price": 154.28,
+        "six_months_ago_price": 182.11,
+        "current_price": 196.08,
+        "change": 41.8,
+        "change_percent": 27.1
+    },
+    {
+        "ticker": "TQQQ",
+        "name": "ProShares UltraPro QQQ",
+        "one_year_ago_price": 41.79,
+        "six_months_ago_price": 61.92,
+        "current_price": 68.61,
+        "change": 26.82,
+        "change_percent": 64.16
+    },
+    {
+        "ticker": "SPLG",
+        "name": "SPDR Portfolio S&P 500 ETF",
+        "one_year_ago_price": 52.2,
+        "six_months_ago_price": 59.86,
+        "current_price": 66.28,
+        "change": 14.08,
+        "change_percent": 26.97
+    },
+    {
+        "ticker": "SMH",
+        "name": "VanEck Semiconductor ETF",
+        "one_year_ago_price": 155.28,
+        "six_months_ago_price": 224.09,
+        "current_price": 243.46,
+        "change": 88.18,
+        "change_percent": 56.78
+    },
+    {
+        "ticker": "TSLA",
+        "name": "Tesla, Inc.",
+        "one_year_ago_price": 258.08,
+        "six_months_ago_price": 188.14,
+        "current_price": 214.11,
+        "change": -43.97,
+        "change_percent": -17.04
+    }
+]

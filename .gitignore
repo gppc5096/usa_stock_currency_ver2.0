@@ -1,0 +1,51 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.py
+!*.md
+!*.txt
+!*.json
+!*.qss
+!*.spec
+!*.ini
+!*.png
+!*.jpg
+!*.jpeg
+!*.ico
+!*.ttf
+!*.xlsx
+
+# etc...
+
+# # ...even if they are in subdirectories
+# !*/
+
+# # if the files to be tracked are in subdirectories
+# !*/filename.ext
+
+# venv/
+# __pycache__/
+# *.pyc
+# *.pyo
+# *.pyd
+
+# .idea/
+# *.xml
+# *.idea
+
+# # PyInstaller
+# build/
+# dist/
+
+# # PyInstaller 생성 파일
+# *.manifest
+
+# # PyInstaller 런타임 파일
+# *.pyo
+# *.pyc
+# __pycache__/
+
+# # PyInstaller 로그 파일
+# *.log
